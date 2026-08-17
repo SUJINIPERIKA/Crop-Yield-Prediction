@@ -1,0 +1,6 @@
+crop,soil_type,temperature,rainfall,soil_moisture,nitrogen,phosphorus,potassium,ndvi,yield_t_ha
+Rice,Loamy,30,700,42,80,45,60,0.68,4.10
+Rice,Clay,32,650,38,65,40,55,0.61,3.80
+Maize,Loamy,28,600,50,90,50,70,0.72,4.80
+Wheat,Loamy,24,450,44,75,42,60,0.65,3.60
+Cotton,Black Soil,31,550,35,60,38,65,0.58,2.50
